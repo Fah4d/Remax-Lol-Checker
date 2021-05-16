@@ -4,9 +4,8 @@ Imports System.IO
 
 
 
-'=========================CODED BY #Remax ===============================
-'=Twitter : >> https://www.Twitter.com/iR3max/                          |
-'=INSTAGRAM : >> https://www.instagram.com/Rmm7                         |
+'=========================CODED BY #Remax ==============================|
+'= INSTAGRAM : >> https://www.instagram.com/Rmm7                        |
 '========================================================================
 
 
